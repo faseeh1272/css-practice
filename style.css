@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: sans-serif; */
+
+
+}
+
+/* declaration block { everything inside it } */
+
+
+p {
+    /* color: whitesmoke; */
+}
+/* 
+@font-face  {
+    font-family: 'LobsterFont';
+    src: url('./font/Lobster/Lobster-Regular.ttf')format('truetype');
+} */
+
+/* css selector */
+
+/* universal selector */
+
+/* example */
+/* 
+*{
+    text-align: center;
+} */
+
+/* applies to all element in the document */ 
+
+/* element selector */
+/* 
+p{
+    color: blue; 
+} */
+
+
+/* id selector */
+/* 
+#unique{
+    color: seagreen;
+} */
+/* child selector */
+li>a  {
+    font-weight: bold;
+    color: tomato;
+    text-decoration: none;
+    font-size: 40px;
+}
+/* Descendant Selector */
+div p {
+  color: blue;
+}
+
+/* Child Selector */
+/* div > p {
+  color: red;
+} */
+
+
+
+
+
