@@ -13,11 +13,11 @@
 p {
     /* color: whitesmoke; */
 }
-/* 
+
 @font-face  {
     font-family: 'LobsterFont';
     src: url('./font/Lobster/Lobster-Regular.ttf')format('truetype');
-} */
+}
 
 /* css selector */
 
@@ -60,7 +60,18 @@ div p {
   color: red;
 } */
 
+img{
+    
+    opacity: 0.2 ;
+} 
 
+ul li{
+    font-family:monospace;
+    font-weight: medium;
+    font-style:normal ;
+    text-transform: lowercase;
+    text-decoration:  none;
+    line-height: 40px;
 
-
+}
 
