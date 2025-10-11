@@ -20,7 +20,7 @@ p {
 p{
     font-family: myfont ;
   word-spacing: 10px;
-  text-align: center;
+  text-align: right;
 }
 
 /* @font-face  {
