@@ -13,10 +13,21 @@
 p {
     /* color: whitesmoke; */
 }
-
-@font-face  {
-    font-family: 'LobsterFont';
+@font-face{
+    font-family:'myFont';  
     src: url('./font/Lobster/Lobster-Regular.ttf')format('truetype');
+}
+p{
+    font-family: myfont ;
+  word-spacing: 10px;
+}
+
+/* @font-face  {
+    font-family: 'LobsterFont';
+    src: url('./font/Lobster/Lobster-Regular.ttf')format('truetype');  
+}
+p{
+    font-family:'LobsterFont';
 }
 
 /* css selector */
