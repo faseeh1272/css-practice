@@ -151,3 +151,8 @@ div{
     border: 2px solid black;
     margin: 10px ;
 }
+div::after{
+    content: " - I am after pseudo element ";
+    color: red;
+    font-size: 20px;
+}
