@@ -1,4 +1,0 @@
-;/*FB_PKG_DELIM*/
-
-__d("XCommerceManagerItemsPageControllerRouteBuilder",["jsRouteBuilder"],(function(a,b,c,d,e,f,g){a=c("jsRouteBuilder")("/commerce/catalogs/{?catalog_id}/products/",Object.freeze({itemHasManualEdits:!1}),void 0);b=a;g["default"]=b}),98);
-__d("XCommerceManagerLaunchpadPageControllerRouteBuilder",["jsRouteBuilder"],(function(a,b,c,d,e,f,g){a=c("jsRouteBuilder")("/commerce/",Object.freeze({advertiser_shop_onboarding_permission_opt_out:!1}),void 0);b=a;g["default"]=b}),98);
