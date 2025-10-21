@@ -29,7 +29,31 @@
 
  /* shorthand list-style */
  ul{
-    list-style: circle inside  ;
+    /* list-style: circle inside  ; */
  }
 
+ /* table properties */
 
+ table {
+    width: 100%;
+    border-width: 1px soliud black;
+   background-color: aquamarine;
+    border-spacing: 30px;
+ }
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 10px;
+  font-size:30px;
+  empty-cells: inherit;
+  
+   
+}
+tr:hover{
+    color: chartreuse; 
+    background-color: black;
+}
+
+
+/* form propereties */
