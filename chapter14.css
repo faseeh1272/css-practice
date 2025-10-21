@@ -57,3 +57,24 @@ tr:hover{
 
 
 /* form propereties */
+form{
+    width: 250px;
+    display:flex;
+    flex-direction: column;
+    gap: 20px; 
+}
+input label{
+    display: flex;
+}
+label    {
+    display: flex;
+  /* display: inline; */
+align-items: start;
+ 
+} 
+button{
+    width:60px;
+    text-align: right;
+    float: right;
+    background-color: aqua;
+}
