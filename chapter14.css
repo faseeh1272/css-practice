@@ -1,0 +1,28 @@
+/* li{
+    /* list-style-type: none; */
+    /* list-style-type: disc; */
+    /* list-style-type: circle; */
+    /* list-style-type: square;
+} */
+
+/* for order list ol*/
+
+
+ ol li{
+    /* list-style-type: upper-roman; */
+    /* list-style-type: lower-roman; */
+    /* list-style-type: upper-alpha; */
+    /* list-style-type: lower-alpha; */
+    /* list-style-type: lower-greek; */
+    /* list-style-type: decimal-leading-zero; */
+    list-style-type: decimal;
+    /* list-style-image: url("./Madina\ Al\ Munawara.png"); */
+
+ }
+
+  /* i am learning list-style-position */
+ ul{
+    /* list-style-image: url("./"); */
+    /* list-style-position: inside; */
+    list-style-position: outside;
+ }
