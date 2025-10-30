@@ -32,7 +32,7 @@
     /* list-style: circle inside  ; */
  }
 
- /* table properties */
+ table properties */
 
  table {
     width: 100%;
@@ -49,11 +49,11 @@ table, th, td {
   empty-cells: inherit;
   
    
-}
-tr:hover{
+ } 
+ tr:hover{
     color: chartreuse; 
     background-color: black;
-}
+} 
 
 
 /* form propereties */
@@ -77,4 +77,41 @@ button{
     text-align: right;
     float: right;
     background-color: aqua;
+}
+
+/* list again practice */
+
+ ul li{
+  /* list-style-image: url("./Madina\ Al\ Munawara.png"); */
+list-style-position: outside;
+}
+
+ol li{
+    list-style:inside circle;
+}
+
+
+/* table properties css again */
+
+
+table{
+    width: 60%;
+    border: 2px solid black;
+    padding: 20px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 20px;
+    border-top: 5px solid black;
+    border-bottom: 10px solid black;
+    text-align: center;
+    background-color: aqua;
+    empty-cells: hide;
+
+}
+table:hover{
+    color: white;
+    background-color: black;
+}
+tr , td {
+padding: 10px;
 }

@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+header{
+    width: 100%;
+    padding: 20px;
+    /* background-color: bisque;
+    color: black; */
+    color: aliceblue;
+    background-color: rgb(68, 66, 66);
+}
+
+nav{
+  max-width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+ul , li{
+    display: flex;
+    
+}
+
+li{
+    font-size: 25px;
+    margin-left: 70px;
+    gap: 20px;
+   font-weight: 600;
+ justify-content: space-around;
+}
+.logo  {
+    width: 200px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+/* hero-section start  */
+
+
+
+
+
+
