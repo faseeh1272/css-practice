@@ -208,3 +208,14 @@ div{
   border-radius : 20px 10px 20px 10px ;
 
   }
+
+  div.sizing{
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+   p:nth-child(1){
+    color: blue;
+   }
+   
+  
